@@ -3,7 +3,7 @@ Hello , Iam Manar<br>I’m an aspiring programmer <br>and a final-year student a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/manar-maher-71b972290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVLsvI1vsR5qn0wFUxXhHqA%3D%3D)
+![LinkedIn](https://www.linkedin.com/in/manar-maher-71b972290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVLsvI1vsR5qn0wFUxXhHqA%3D%3D)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manar224&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manar224&theme=radical&hide_border=false)<br/>
